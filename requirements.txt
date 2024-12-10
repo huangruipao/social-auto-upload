@@ -1,9 +1,10 @@
-requests
-playwright
+requests~=2.32.3
+playwright~=1.48.0
 eventlet
 schedule
 cf_clearance
-biliup
-xhs
-qrcode
-loguru
+biliup~=0.4.78
+xhs~=0.2.13
+qrcode~=8.0
+loguru~=0.7.2
+APScheduler~=3.10.4
